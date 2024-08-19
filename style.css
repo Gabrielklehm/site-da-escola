@@ -1,0 +1,56 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: rgba(17, 16, 13, 0.966);
+    color:rgba(99, 50, 28, 0.671) ;
+    
+    
+    }
+    header {
+    
+    background-color:rgba(218, 156, 75, 0.747) ;
+    color:rgba(0, 0, 0, 0.836) ;
+    font-size: 30px;
+    font-family: 0;
+    text-align: center;
+    padding: 1rem 0;
+    }
+    
+    main {
+    padding: 0.5rem ;
+    max-width: 18000px;
+    margin-top: auto;
+    }
+  
+        .container {
+        background-image: url('Who-is-Arsene-Lupin.webp');
+        background-size: cover; /* Ajusta a imagem para cobrir todo o container */
+        background-position: center; /* Centraliza a imagem no container */
+        background-repeat: no-repeat; /* Evita a repetição da imagem */
+        color: rgba(37, 12, 12, 0.829); /* Define a cor do texto para contraste com a imagem */
+        padding: 0.5px;
+        
+             
+        }
+        p{
+            text-align: center;
+            margin-right: 20%;
+            max-width: 60%;
+            margin-right: 60%;
+            font-size: 20px;
+
+        }
+        
+        li{
+            font-size: 20px;
+        }
+
+       .content img{
+        max-width:280px;
+       }
+       
+       .main img{
+
+    max-width: 280px;
+       }
